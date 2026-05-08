@@ -4,6 +4,8 @@ Workflow listo para producción que **captura leads vía webhook**, los registra
 
 Resuelve un caso típico de automatización: un sitio web tiene un formulario de contacto y necesita que cada submisión quede registrada como CRM básico, que el lead reciba confirmación inmediata, y que el sitio reciba una respuesta estructurada.
 
+![Workflow canvas](docs/workflow-canvas.png)
+
 ## Diagrama del flujo
 
 ```
